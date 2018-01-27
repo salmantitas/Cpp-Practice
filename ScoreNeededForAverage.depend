@@ -1,4 +1,11 @@
 # depslib dependency file v1.0
-1516995678 source:e:\cpp practise\scoreneededforaverage\main.cpp
+1517052199 source:e:\cpp practise\scoreneededforaverage\main.cpp
 	<iostream>
+	"desiredAverageCalculate.h"
+
+1517052227 source:e:\cpp practise\scoreneededforaverage\desiredaveragecalculate.cpp
+	<iostream>
+	"desiredAverageCalculate.h"
+
+1517051792 e:\cpp practise\scoreneededforaverage\desiredaveragecalculate.h
 
