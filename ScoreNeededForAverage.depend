@@ -1,11 +1,26 @@
 # depslib dependency file v1.0
-1517052199 source:e:\cpp practise\scoreneededforaverage\main.cpp
+1517208189 source:e:\cpp practise\scoreneededforaverage\main.cpp
 	<iostream>
 	"desiredAverageCalculate.h"
+	"addNumbers.h"
 
-1517052227 source:e:\cpp practise\scoreneededforaverage\desiredaveragecalculate.cpp
+1517183241 source:e:\cpp practise\scoreneededforaverage\desiredaveragecalculate.cpp
 	<iostream>
+	"userInput.h"
 	"desiredAverageCalculate.h"
 
-1517051792 e:\cpp practise\scoreneededforaverage\desiredaveragecalculate.h
+1517226406 e:\cpp practise\scoreneededforaverage\desiredaveragecalculate.h
+
+1517183241 source:e:\cpp practise\scoreneededforaverage\addnumbers.cpp
+	"addNumbers.h"
+	"userInput.h"
+	<iostream>
+
+1517133102 e:\cpp practise\scoreneededforaverage\addnumbers.h
+
+1517183114 source:e:\cpp practise\scoreneededforaverage\userinput.cpp
+	"userInput.h"
+
+1517183329 e:\cpp practise\scoreneededforaverage\userinput.h
+	<iostream>
 
