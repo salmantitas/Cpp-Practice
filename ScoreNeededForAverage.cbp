@@ -32,7 +32,18 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="ScoreNeededForAverage.cbp" />
+		<Unit filename="ScoreNeededForAverage.depend" />
+		<Unit filename="ScoreNeededForAverage.layout" />
+		<Unit filename="addNumbers.cpp" />
+		<Unit filename="addNumbers.h" />
+		<Unit filename="decimalToBinary.cpp" />
+		<Unit filename="decimalToBinary.h" />
+		<Unit filename="desiredAverageCalculate.cpp" />
+		<Unit filename="desiredAverageCalculate.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="userInput.cpp" />
+		<Unit filename="userInput.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
