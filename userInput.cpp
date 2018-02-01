@@ -11,3 +11,17 @@ int getIntFromUser(string s)
     cin >> a;
     return a;
 }
+
+
+ /*
+  * Displays the string to the user and returns the user's double input.
+
+
+double getDoubleFromUser(string s)
+{
+    double a;
+    cout << s << endl;
+    cin >> a;
+    return a;
+}
+*/
