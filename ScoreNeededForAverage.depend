@@ -24,11 +24,12 @@
 1517228203 e:\cpp practise\scoreneededforaverage\userinput.h
 	<iostream>
 
-1517433503 source:d:\cpp practice\scoreneededforaverage\main.cpp
+1517475832 source:d:\cpp practice\scoreneededforaverage\main.cpp
 	<iostream>
 	"desiredAverageCalculate.h"
 	"addNumbers.h"
 	"decimalToBinary.h"
+	"numberGuessingGame.h"
 
 1517396965 d:\cpp practice\scoreneededforaverage\desiredaveragecalculate.h
 
@@ -50,11 +51,18 @@
 	"userInput.h"
 	"desiredAverageCalculate.h"
 
-1517435224 d:\cpp practice\scoreneededforaverage\decimaltobinary.h
+1517442720 d:\cpp practice\scoreneededforaverage\decimaltobinary.h
 
-1517435250 source:d:\cpp practice\scoreneededforaverage\decimaltobinary.cpp
+1517442636 source:d:\cpp practice\scoreneededforaverage\decimaltobinary.cpp
 	<iostream>
 	<cmath>
 	"decimalToBinary.h"
+	"userInput.h"
+
+1517475833 d:\cpp practice\scoreneededforaverage\numberguessinggame.h
+
+1517476129 source:d:\cpp practice\scoreneededforaverage\numberguessinggame.cpp
+	<iostream>
+	"numberGuessingGame.h"
 	"userInput.h"
 
